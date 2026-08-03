@@ -1,0 +1,11 @@
+# Qobuz
+# > core
+DOMAIN-SUFFIX,qobuz.com
+# > cdn
+DOMAIN-SUFFIX,arcpublishing.com
+DOMAIN-SUFFIX,arc-cdn.net
+# > streaming
+DOMAIN,streaming-qobuz-std.akamaized.net
+# > other
+DOMAIN,us-ore-00001.s3.dualstack.us-west-2.amazonaws.com
+DOMAIN-SUFFIX,mock.com

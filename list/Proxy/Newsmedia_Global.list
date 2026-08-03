@@ -1,0 +1,11 @@
+# > Mastodon
+DOMAIN-SUFFIX,mastodon.social
+DOMAIN-SUFFIX,mastodon.online
+DOMAIN-SUFFIX,mstdn.social
+DOMAIN-SUFFIX,mastodon.cloud
+DOMAIN-SUFFIX,mstdn.jp
+DOMAIN-SUFFIX,pawoo.net
+DOMAIN-SUFFIX,mas.to
+
+DOMAIN-KEYWORD,mastodon
+DOMAIN-SUFFIX,joinmastodon.org

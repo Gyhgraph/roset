@@ -1,0 +1,32 @@
+Reject:
+    Advertising:
+    Malicious:
+    Tracking:
+    AdBlock+:
+
+Direct:
+    Domestic:
+    Domestic_ip:
+    Special:
+    Scholar: -
+    Stream_cn:
+    Special:
+    Lan:
+
+Proxy:
+    General:
+        Proxy:
+    Custom:
+        Apple:
+            Apple_Music:
+            Apple_Global:
+            Apple_swUpdate:
+            Apple:
+        AI_Suite:
+        Crypto: -
+        Google_FCM:
+        Microsoft:
+        Speedtest:
+        Steam:
+        Stream_Global:
+        Telegram:
