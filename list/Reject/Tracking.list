@@ -116,7 +116,7 @@ DOMAIN-SUFFIX,cookielaw.org
 DOMAIN-SUFFIX,braze.eu
 DOMAIN,ep2.facebook.com
 DOMAIN,firebase-settings.crashlytics.com
-DOMAIN-SUFFIX,app-analytics-services.com
+# DOMAIN-SUFFIX,app-analytics-services.com gemini
 DOMAIN-SUFFIX,mixpanel.com
 
 DOMAIN,app-measurement.com
