@@ -120,7 +120,7 @@ DOMAIN,firebase-settings.crashlytics.com
 DOMAIN-SUFFIX,mixpanel.com
 
 DOMAIN,app-measurement.com
-DOMAIN-SUFFIX,intergient.com
+# DOMAIN-SUFFIX,intergient.com
 DOMAIN-SUFFIX,playwire.com
 
 DOMAIN-SUFFIX,sentry.io
