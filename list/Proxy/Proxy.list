@@ -13,6 +13,13 @@ DOMAIN-SUFFIX,lencr.org
 DOMAIN-SUFFIX,ocsp.comodoca.com
 DOMAIN-SUFFIX,ocsp.digicert.com
 DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,edge.captcha-sdk.awswaf.com
+DOMAIN-SUFFIX,edge.sdk.awswaf.com
+DOMAIN-SUFFIX,ocsp.rootca1.amazontrust.com
+DOMAIN-SUFFIX,ocsp.r2m04.amazontrust.com
+
+# >npm
+DOMAIN-SUFFIX,unpkg.com
 
 # > Gen
 DOMAIN-SUFFIX,500px.com
@@ -255,6 +262,11 @@ DOMAIN-SUFFIX,zello.com
 DOMAIN-SUFFIX,zeronet.io
 DOMAIN-SUFFIX,zophar.net
 DOMAIN-SUFFIX,zyxel.com
+
+DOMAIN-SUFFIX,mozilla.org
+DOMAIN-SUFFIX,mozilla.net
+DOMAIN-SUFFIX,mozilla.com
+DOMAIN-SUFFIX,openstreetmap.org
 
 DOMAIN,cdn.jsdelivr.net
 DOMAIN,cdn.statically.io
@@ -553,7 +565,7 @@ DOMAIN,copilot.microsoft.com
 
 # > Riot Games
 DOMAIN-SUFFIX,riotcdn.net
-DOMAIN-SUFFIX,wr.pvp.net
+DOMAIN-SUFFIX,pvp.net
 DOMAIN-SUFFIX,riotgames.com
 
 # > Sony
