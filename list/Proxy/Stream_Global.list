@@ -140,3 +140,12 @@ DOMAIN-SUFFIX,assemble.film
 # > Mubi
 DOMAIN-SUFFIX,mubi.com
 DOMAIN-SUFFIX,mubicdn.net
+
+# > Goodreads
+DOMAIN-SUFFIX,prod.service.minerva.devices.a2z.com
+DOMAIN-SUFFIX,images.gr-assets.com
+DOMAIN-SUFFIX,gr-assets.com
+DOMAIN-SUFFIX,goodreads.amazon.dev
+
+# > Feedburner
+DOMAIN-SUFFIX,feeds.feedburner.com
