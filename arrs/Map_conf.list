@@ -1,0 +1,61 @@
+# conf-source
+
+# Reject:
+
+https://github.com/Gyhgraph/roset/raw/refs/heads/main/arrs/Reject/Advertising.list
+
+https://github.com/Gyhgraph/roset/raw/refs/heads/main/arrs/Reject/Malicious.list
+
+https://github.com/Gyhgraph/roset/raw/refs/heads/main/arrs/Reject/Tracking.list
+
+https://github.com/Gyhgraph/roset/raw/refs/heads/main/arrs/Reject/AdBlock.list
+
+# Special:
+
+https://github.com/Gyhgraph/roset/raw/refs/heads/main/arrs/Special.list
+
+# Rule:
+
+https://github.com/Gyhgraph/roset/raw/refs/heads/main/arrs/Proxy/Stream_Global.list
+
+https://github.com/Gyhgraph/roset/raw/refs/heads/main/arrs/Proxy/Apple/Apple_Global.list
+
+https://github.com/Gyhgraph/roset/raw/refs/heads/main/arrs/Direct/Stream_cn.list
+
+https://github.com/Gyhgraph/roset/raw/refs/heads/main/arrs/Proxy/AI_Suite.list
+
+https://github.com/Gyhgraph/roset/raw/refs/heads/main/arrs/Direct/Scholar.list
+
+https://github.com/Gyhgraph/roset/raw/refs/heads/main/arrs/Proxy/Steam.list
+
+https://github.com/Gyhgraph/roset/raw/refs/heads/main/arrs/Proxy/Crypto.list
+
+https://github.com/Gyhgraph/roset/raw/refs/heads/main/arrs/Proxy/PayPal.list
+
+https://github.com/Gyhgraph/roset/raw/refs/heads/main/arrs/Proxy/Newsmedia_Global.list
+
+https://github.com/Gyhgraph/roset/raw/refs/heads/main/arrs/Proxy/Google_FCM.list
+
+https://github.com/Gyhgraph/roset/raw/refs/heads/main/arrs/Proxy/Qobuz.list
+
+https://github.com/Gyhgraph/roset/raw/refs/heads/main/arrs/Proxy/Apple/Apple_Music.list
+
+https://github.com/Gyhgraph/roset/raw/refs/heads/main/arrs/Proxy/Apple/Apple.list
+
+https://github.com/Gyhgraph/roset/raw/refs/heads/main/arrs/Proxy/Telegram.list
+
+https://github.com/Gyhgraph/roset/raw/refs/heads/main/arrs/Proxy/Microsoft.list
+
+https://github.com/Gyhgraph/roset/raw/refs/heads/main/arrs/Proxy/Meta.list
+
+https://github.com/Gyhgraph/roset/raw/refs/heads/main/arrs/Proxy/Speedtest.list
+
+https://github.com/Gyhgraph/roset/raw/refs/heads/main/arrs/Proxy/Proxy.list
+
+# Direct:
+
+https://github.com/Gyhgraph/roset/raw/refs/heads/main/arrs/Direct/Direct.list
+
+https://github.com/Gyhgraph/roset/raw/refs/heads/main/arrs/Direct/Domestic.list
+
+https://github.com/Gyhgraph/roset/raw/refs/heads/main/arrs/Direct/Domestic_ip.list
