@@ -281,7 +281,7 @@ DOMAIN,q.eu-central-1.amazonaws.com
 DOMAIN,q.us-east-1.amazonaws.com
 
 # > Meta AI
-DOMAIN-SUFFIX,meta.ai
+# DOMAIN-SUFFIX,meta.ai
 
 # > Microsoft Copilot
 # Retained for macOS app availability; web/mobile support alone is insufficient
